@@ -1,4 +1,4 @@
-# Used-Cars
+# What drives the price of used cars?
 A dataset which contains information about used cars to be used to determine the price of the car.The provided dataset contains information on 426K cars to ensure speed of processing.
 
 CRISP-DM - This was the project management method used in the process to determine the findings.The below diagram explains the overall crisp-dm process. 
