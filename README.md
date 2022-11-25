@@ -20,11 +20,11 @@ CRISP-DM - This was the project management method used in the process to determi
   ### 3.2) Clean Dataset by dropping rows and columns 
   ### 3.3) Rename Columns
   ### 3.4) Data Analysis
-   ### 3.4.1) Univariate Analysis
+   ### 3.4.1) Univariate Analysis (Descriptive Statistics)
       ### 3.4.1.1) Response Variable
       ### 3.4.1.2) Numerical Variables
       ### 3.4.1.3) Categorical Variables
-  ### 3.4.2) Bivariate Analysis
+  ### 3.4.2) Bivariate Analysis (Inferential Statistics)
   ### 3.4.3) Multivariate Analysis
 ## 4) Data Modelling 
   ### 4.1) Rescaling
