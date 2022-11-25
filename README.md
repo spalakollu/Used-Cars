@@ -44,6 +44,8 @@ CRISP-DM - This was the project management method used in the process to determi
    ### 4.4.6) Ridge Regression - Transformed Target Regression
 ## 5) Evaluation 
   ### 5.1) Metric Evaluation
+      ### 5.1.1) Identification of Evaluation Metric
+      ### 5.1.2) Rationale behind use of Evaluation Metric. 
   ### 5.2) Interpretation of Coefficients
 ## 6) Deployment
 ## 7) Recommendations to the dealer. 
