@@ -1,6 +1,8 @@
 # What drives the price of used cars?
 A dataset which contains information about used cars to be used to determine the price of the car.The provided dataset contains information on 426K cars to ensure speed of processing.
 
+A PDF version of the notebook is located <a href="https://github.com/spalakollu/Used-Cars/blob/main/Used-Cars-Notebook.pdf">here</a>
+
 CRISP-DM - This was the project management method used in the process to determine the findings.The below diagram explains the overall crisp-dm process. 
 
 ![image](https://user-images.githubusercontent.com/11352167/203853032-bd86220f-7b03-4171-ac9d-b0644da7f1b1.png)
@@ -48,7 +50,7 @@ CRISP-DM - This was the project management method used in the process to determi
       ### 5.1.2) Rationale behind use of Evaluation Metric. 
   ### 5.2) Interpretation of Coefficients
 ## 6) Deployment
-## 7) Recommendations to the dealer. 
+## 7) Recommendations to the dealer. Details <a href="https://github.com/spalakollu/Used-Cars/blob/main/Recommendations%20to%20the%20dealer.pdf">here</a>
 
 
 
