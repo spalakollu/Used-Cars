@@ -54,3 +54,4 @@ The below outline of the executed projected explains the details involved in the
   - ### 5.2) Interpretation of Coefficients
 ## 6) Deployment
 ## 7) Recommendations to the dealer. Details <a href="https://github.com/spalakollu/Used-Cars/blob/main/Recommendations%20to%20the%20dealer.pdf">here</a>
+## 8) Next Steps
