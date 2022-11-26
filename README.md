@@ -7,9 +7,12 @@ CRISP-DM - This was the project management method used in the process to determi
 
 ![image](https://user-images.githubusercontent.com/11352167/203853032-bd86220f-7b03-4171-ac9d-b0644da7f1b1.png)
 
+The below outline of the executed projected explains the details involved in the CRISP-DM process. 
 ## 1) Business Understanding 
    - ### 1.1) Business Question
+              Predict the features/attributes that drive the prices of used cars higher. 
    - ### 1.2) Understanding of Business 
+              In order to estimate the price of used car, the dealer would be interested in predicting the price of a car based on its attributes. 
 ## 2) Data Understanding 
    - ### 2.1) Data collection - imports
    - ### 2.2) Data collection - Load data
